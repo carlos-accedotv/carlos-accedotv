@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/wh0am1-dev/wh0am1-dev/master/img/banner.png" />
+[<img src="https://raw.githubusercontent.com/wh0am1-dev/wh0am1-dev/master/img/banner.png" />](https://github.com/wh0am1-dev)
 
 <br><br>
 
